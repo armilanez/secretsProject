@@ -1,7 +1,7 @@
 # Secrets Project
 
 This project is a website which shows you a secret from someone!
-Just hover your mouse in the main image shown at the center and it shall appear!
+Just hover your mouse on the main image shown at the center and it shall appear!
 
 Project powered by `Node` and `Axios`.
 
