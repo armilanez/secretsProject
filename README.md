@@ -3,6 +3,8 @@
 This project is a website which shows you a secret from someone!
 Just hover your mouse in the main image shown at the center and it shall appear!
 
+Project powewred by `Node` and `Axios`.
+
 ![Woman whispering](public/images/secret_demo.PNG)
 
 ## Setup
